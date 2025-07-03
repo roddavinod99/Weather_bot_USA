@@ -1,0 +1,32 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+*.DS_Store
+*.egg-info/
+*.idea/
+*.vscode/
+*.coverage
+*.pytest_cache/
+*.mypy_cache/
+*.pylint.d/
+*.tox/
+
+*.dist-info/
+*.egg
+dist/   
+build/
+# Ignore Python bytecode files
+# Ignore virtual environment directories
+venv/
+.env.local
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore coverage reports
+variables.env
+# Ignore local configuration files
