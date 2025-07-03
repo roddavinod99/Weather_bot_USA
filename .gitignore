@@ -30,3 +30,4 @@ venv/
 # Ignore coverage reports
 variables
 # Ignore local configuration files
+variables.txt
